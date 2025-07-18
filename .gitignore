@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Autres:
+webscraping_with_requests.ipynb
+test.ipynb
